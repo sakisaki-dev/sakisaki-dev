@@ -1,0 +1,92 @@
+[
+  {
+    "id": "classifier",
+    "tag": "infra",
+    "title": "Serverless Image Classifier",
+    "url": "https://github.com/sakisaki-dev/AWS-Serverless-ImageClassifier",
+    "lines": [
+      "Event-driven S3 → Lambda → Rekognition pipeline",
+      "that sorts uploaded photos and address files."
+    ],
+    "chips": [
+      "14 Terraform resources",
+      "scoped IAM",
+      "DLQ + alarm"
+    ]
+  },
+  {
+    "id": "trading-floor",
+    "tag": "systems",
+    "title": "Trading Floor",
+    "url": "https://github.com/sakisaki-dev/trading-floor",
+    "lines": [
+      "A trading-card market where neural-network bots",
+      "learn to trade and evolve their own tactics."
+    ],
+    "chips": [
+      "~500 bots",
+      "32-club league",
+      "live demo"
+    ]
+  },
+  {
+    "id": "retrovault",
+    "tag": "data",
+    "title": "RetroVault",
+    "url": "https://github.com/sakisaki-dev/RetroVault",
+    "lines": [
+      "Event-sourced stats platform built from game",
+      "screenshots and compiled into a static web app."
+    ],
+    "chips": [
+      "10 data-driven games",
+      "no server",
+      "live demo"
+    ]
+  },
+  {
+    "id": "alzheimers",
+    "tag": "research",
+    "title": "Alzheimer's ML Meta-analysis",
+    "url": "https://github.com/sakisaki-dev/Deep-Learning-for-Early-Detection-of-Alzheimer-s-Disease-Meta-Analysis-",
+    "lines": [
+      "Systematic review of machine learning for early",
+      "Alzheimer's detection across MRI, PET and EEG."
+    ],
+    "chips": [
+      "30 studies",
+      "pooled AUC 0.962",
+      "medRxiv preprint"
+    ]
+  },
+  {
+    "id": "llm-logic",
+    "tag": "ai",
+    "title": "LLM Logic Demos",
+    "url": "https://github.com/sakisaki-dev/LLM-Logic-Demos",
+    "lines": [
+      "Language models grounded in formal reasoning",
+      "systems for more reliable, explainable answers."
+    ],
+    "chips": [
+      "Prolog",
+      "Datalog",
+      "LangGraph agents"
+    ]
+  },
+  {
+    "id": "gesture-ai",
+    "tag": "ml",
+    "title": "Gesture AI",
+    "url": "https://github.com/sakisaki-dev/Gesture-AI-",
+    "lines": [
+      "Real-time hand-gesture mouse control with a",
+      "classifier trained on your own recorded gestures."
+    ],
+    "chips": [
+      "MediaPipe",
+      "ONNX",
+      "30-frame window"
+    ]
+  }
+]

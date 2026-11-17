@@ -1,0 +1,60 @@
+{
+  "headline": "Backend & infrastructure engineer who designs and ships production systems end to end.",
+  "subline": "Rules engines, data pipelines and cloud infrastructure in Go and AWS.",
+  "meta": [
+    "B.S. Computer Engineering · UC Santa Cruz · GPA 3.86 · c/o 2027",
+    ""
+  ],
+  "tickerLabel": "SAKI · as of 2026-11-17",
+  "tickerNote": "production stats since Jul 2026",
+  "ticker": [
+    {
+      "sym": "TEST:CODE",
+      "val": "1.33",
+      "chg": "more tests than code",
+      "tone": "up"
+    },
+    {
+      "sym": "PRS WITH TESTS",
+      "val": "81%",
+      "chg": "ship with tests",
+      "tone": "up"
+    },
+    {
+      "sym": "GO SHARE",
+      "val": "78%",
+      "chg": "of lines written",
+      "tone": "flat"
+    },
+    {
+      "sym": "MEDIAN PR",
+      "val": "369 lines",
+      "chg": "changed per PR",
+      "tone": "flat"
+    },
+    {
+      "sym": "GO PACKAGES",
+      "val": "47",
+      "chg": "touched",
+      "tone": "flat"
+    },
+    {
+      "sym": "SCHEMA CHANGES",
+      "val": "14",
+      "chg": "protobuf",
+      "tone": "flat"
+    },
+    {
+      "sym": "LINES DELETED",
+      "val": "−30,584",
+      "chg": "bullish",
+      "tone": "up"
+    },
+    {
+      "sym": "CONTRIBUTIONS",
+      "val": "493",
+      "chg": "past year",
+      "tone": "flat"
+    }
+  ]
+}
