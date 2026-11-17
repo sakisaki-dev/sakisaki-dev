@@ -5,7 +5,7 @@
 <circle cx="692.8" cy="45" r="5" fill="#3fb950"/>
 <text x="705.8" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#3fb950">Currently shipping</text>
 <text x="28" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#c9d1d9">Backend &amp; infrastructure engineer who designs and ships production systems end to end.</text>
-<text x="28" y="120" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#c9d1d9">Rules engines, data pipelines and cloud infrastructure in Go and AWS.</text>
+<text x="28" y="120" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#c9d1d9">Rules engines, data pipelines and cloud infrastructure in Go, AWS and Kubernetes.</text>
 <text x="28" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#8b949e">B.S. Computer Engineering · UC Santa Cruz · GPA 3.86 · c/o 2027</text>
 <text x="852" y="152" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#8b949e">Software Engineer @ HomeVision</text>
 </svg>
