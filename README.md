@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="saketh.service: backend and infrastructure engineer; rules engines, data pipelines and cloud infrastructure in Go and AWS" src="assets/header-light.svg">
+  <img alt="Saketh Machiraju: backend and infrastructure engineer; rules engines, data pipelines and cloud infrastructure in Go and AWS" src="assets/header-light.svg">
 </picture>
 
 <picture>
@@ -52,4 +52,4 @@
 
 <br>
 
-**Contact** · [LinkedIn](https://www.linkedin.com/in/saketh-mach/)
+**Contact** · [samachir@ucsc.edu](mailto:samachir@ucsc.edu) · [LinkedIn](https://www.linkedin.com/in/saketh-mach/)

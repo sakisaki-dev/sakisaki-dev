@@ -47,9 +47,9 @@ function header(t, stats) {
   const h = 176;
   const pill = 'Currently shipping';
   const pillW = 46 + pill.length * 7.4;
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${h}" viewBox="0 0 ${W} ${h}" role="img" aria-label="saketh.service: ${esc(stats.headline)}">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${h}" viewBox="0 0 ${W} ${h}" role="img" aria-label="${esc(stats.name)}: ${esc(stats.headline)}">
 <rect x="0.5" y="0.5" width="${W - 1}" height="${h - 1}" rx="10" fill="${t.panel}" stroke="${t.border}"/>
-<text x="28" y="56" font-family="${MONO}" font-size="30" font-weight="700" fill="${t.text}">saketh<tspan fill="${t.muted}">.service</tspan></text>
+<text x="28" y="56" font-family="${SANS}" font-size="30" font-weight="700" fill="${t.text}">${esc(stats.name)}</text>
 <rect x="${W - 28 - pillW}" y="30" width="${pillW}" height="30" rx="15" fill="${t.pillBg}" stroke="${t.pillBorder}"/>
 <circle cx="${W - 28 - pillW + 20}" cy="45" r="5" fill="${t.up}"/>
 <text x="${W - 28 - pillW + 33}" y="50" font-family="${SANS}" font-size="13" font-weight="600" fill="${t.up}">${pill}</text>
